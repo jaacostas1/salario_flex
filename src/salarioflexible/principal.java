@@ -59,7 +59,7 @@ public class principal extends JFrame {
 		sal.setColumns(10);
 		
 		flex = new JTextField();
-		flex.setBounds(89, 42, 40, 20);
+		flex.setBounds(125, 42, 40, 20);
 		contentPane.add(flex);
 		flex.setColumns(10);
 		
@@ -197,7 +197,7 @@ public class principal extends JFrame {
 		contentPane.add(lblNewLabel_6);
 		
 		JLabel lblNewLabel_8 = new JLabel("% flexibilizaci\u00F3n");
-		lblNewLabel_8.setBounds(0, 45, 79, 14);
+		lblNewLabel_8.setBounds(0, 45, 102, 14);
 		contentPane.add(lblNewLabel_8);
 		
 		JButton inden = new JButton("Indemnizaci\u00F3n");
@@ -225,12 +225,12 @@ public class principal extends JFrame {
 		
 		
 		ano_lab = new JTextField();
-		ano_lab.setBounds(89, 73, 40, 20);
+		ano_lab.setBounds(125, 73, 40, 20);
 		contentPane.add(ano_lab);
 		ano_lab.setColumns(10);
 		
 		JLabel lblNewLabel_10 = new JLabel("A\u00F1os laborados");
-		lblNewLabel_10.setBounds(0, 76, 76, 14);
+		lblNewLabel_10.setBounds(0, 76, 102, 14);
 		contentPane.add(lblNewLabel_10);
 		
 			}
